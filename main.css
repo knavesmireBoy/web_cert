@@ -1,0 +1,22 @@
+div {
+    margin: 0 auto;
+    width: 80%;
+}
+
+body {
+    text-align: center;
+}
+a {
+    width: 45%;
+    display: inline-block;
+    margin: .5em;
+
+}
+
+img {
+    display: block;
+    width: 100%;
+    height: auto;
+    border: solid 1px red;
+
+}
